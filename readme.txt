@@ -1,3 +1,6 @@
+#CP100 v5 Unit 6 Solution 10 - Develop an SAP Fiori App for an on-premise OData API
+Requires a Neo Destination named "ZME_800" that contains the RMTSAMPLEFLIGHT Catalog Service
+
 #### SAP Fiori Master-Detail Application Template ####
 
 This is your copy of the "SAP Fiori Worklist Application" template - ready for your custom developments!
